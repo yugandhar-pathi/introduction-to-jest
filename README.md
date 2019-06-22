@@ -1,4 +1,6 @@
-## Install
+## Setup Jest
+
+## Install required packages
 
 ```
 npm i jest --save-dev 
@@ -13,7 +15,7 @@ babel.config.js
 
 ```
 
-##Run 
+## Run 
 
 ```
 npm test
